@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap");
+
+body {
+  background: linear-gradient(to right, white, rgb(95, 95, 173));
+}
+.p {
+  font-family: "Unbounded", cursive;
+}
+
+.a {
+  font-family: "Unbounded", cursive;
+  font-size: 2vh;
+}
+
+.T {
+  display: inline-block;
+  text-align: center;
+  font-family: "Unbounded", cursive;
+}
+
+img {
+  width: 50vh;
+  display: block;
+  margin: auto;
+}
